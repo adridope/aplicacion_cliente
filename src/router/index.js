@@ -5,12 +5,18 @@ import Login from '../views/Login.vue'
 import Logout from '../components/Logout.vue'
 import Register from '../views/Register.vue'
 import ShoppingCart from '../views/ShoppingCart.vue'
+import Inicio from '../views/Inicio.vue'
 Vue.use(VueRouter)
 
 const routes = [
   {
     path: '/',
-    name: 'Listado',
+    name: 'Inicio',
+    component: Inicio
+  },
+  {
+    path: '/products',
+    name: 'Products',
     component: ListadoProductos
   },
   {

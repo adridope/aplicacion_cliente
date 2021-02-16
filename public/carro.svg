@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="107.7mm"
+   height="89.599998mm"
+   viewBox="0 0 107.69997 89.599993"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="carro.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="77.787498"
+       y="40.745834"
+       width="1407.1252"
+       height="306.25266"
+       id="rect863" />
+    <rect
+       x="82.020836"
+       y="128.05833"
+       width="76.199997"
+       height="44.979168"
+       id="rect857" />
+    <rect
+       x="12.7"
+       y="53.445831"
+       width="186.26666"
+       height="139.17084"
+       id="rect851" />
+    <rect
+       x="100.27952"
+       y="174.36664"
+       width="162.39296"
+       height="59.120018"
+       id="rect21" />
+    <rect
+       x="100.27952"
+       y="174.36664"
+       width="162.39296"
+       height="59.120018"
+       id="rect21-4" />
+    <rect
+       x="100.27952"
+       y="174.36664"
+       width="162.39296"
+       height="59.120018"
+       id="rect1198" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="373.28507"
+     inkscape:cy="166.60216"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text849"
+       style="font-size:10.5833px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;white-space:pre;shape-inside:url(#rect851);" />
+    <text
+       xml:space="preserve"
+       id="text855"
+       style="font-size:10.5833px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;white-space:pre;shape-inside:url(#rect857);"><tspan
+         style="visibility:hidden"
+         x="82.021484"
+         y="188.6434"><tspan
+           dx="0 12.626284 11.902813 8.431879 12.11813 6.0461464 6.0461464 12.11813 12.626289 6.0461426"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.6389px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'">batoilogic</tspan></tspan></text>
+    <path
+       id="rect889"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       d="M 0.06367445,0 V 6.746875 H 14.154804 l 20.766174,53.812739 h 7.231599 53.114589 0.30799 L 107.57029,14.125237 H 24.233774 L 18.782945,0 Z M 26.837234,20.872112 H 98.858676 L 90.349635,53.812744 H 39.549119 Z M 46.36989,62.436504 A 13.563928,13.563928 0 0 0 32.805861,76.000014 13.563928,13.563928 0 0 0 46.36989,89.564044 13.563928,13.563928 0 0 0 59.933405,76.000014 13.563928,13.563928 0 0 0 46.36989,62.436504 Z m 37.041666,0 a 13.563928,13.563928 0 0 0 -13.564028,13.56351 13.563928,13.563928 0 0 0 13.564028,13.56403 13.563928,13.563928 0 0 0 13.56352,-13.56403 13.563928,13.563928 0 0 0 -13.56352,-13.56351 z m -37.112461,4.63021 a 8.9337194,8.9337194 0 0 1 0.07079,0 8.9337194,8.9337194 0 0 1 8.933307,8.9333 8.9337194,8.9337194 0 0 1 -8.933307,8.93382 8.9337194,8.9337194 0 0 1 -8.93382,-8.93382 8.9337194,8.9337194 0 0 1 8.863025,-8.9333 z m 37.041666,0 a 8.9337194,8.9337194 0 0 1 0.0708,0 8.9337194,8.9337194 0 0 1 8.933307,8.9333 8.9337194,8.9337194 0 0 1 -8.933307,8.93382 8.9337194,8.9337194 0 0 1 -8.93382,-8.93382 8.9337194,8.9337194 0 0 1 8.863025,-8.9333 z" />
+  </g>
+</svg>
