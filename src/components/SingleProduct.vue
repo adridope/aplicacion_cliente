@@ -4,9 +4,9 @@
             <div class="card-product">
                 <div class="col-12 card-img">
                     <div class="button-desktop">
-                        <img src="img/products/placeholder/placeholder.png" :alt="product.photo">
+                        <img src="../../public/img/products/placeholder/placeholder.png" :alt="product.photo">
                         <div>
-                            <a class="btn d-none d-lg-block"  href="">Ver más</a>
+                            <a class="btn d-none d-lg-block"  @click.prevent="verMas()">Ver más</a>
                         </div>
                     </div>
                 </div>
@@ -15,7 +15,7 @@
                     <h3>{{ product.price }}€</h3>
 
                     <div class="d-lg-none button-mobile">
-                        <a class="btn"  href="">Ver más</a>
+                        <a class="btn" @click.prevent="verMas()">Ver más</a>
                     </div>
                 </div>
             </div>
@@ -29,6 +29,9 @@ export default {
     name:'product',
     props: ["product"],
     methods: {
+        verMas(){
+            this.$router.push({ name: 'SinglePageProduct', params: { product: this.product }})
+        }
     }
 }
 </script>

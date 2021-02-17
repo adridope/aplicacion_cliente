@@ -4,6 +4,9 @@ const baseURL = 'http://batoilogic.my/api/productos/';
 export default {
   getProducts() {
     return axios.get(baseURL)
+  },
+  getProduct(product) {
+    return axios.get(baseURL+product)
   }/*,
   getState(id) {
     return axios.get(baseURL+'states/'+ id)
