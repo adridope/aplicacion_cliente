@@ -3,7 +3,7 @@
     <header>
     <nav class="navbar">
         <div>
-            <router-link class="navbar-brand" id="header-logo" to="/"><img src="logo.svg" alt="logo"></router-link>
+            <router-link class="navbar-brand" id="header-logo" to="/"><img src="/img/batoiLogicResources/logo.svg" alt="logo"></router-link>
             <div class="d-block d-lg-none" id="nav-button"><span></span><span></span><span></span></div>
             <ul id="main-menu">
                 <li><router-link class="navbar-brand headerLink" to="/">Inicio</router-link></li>
@@ -12,18 +12,18 @@
                     <router-link id="registerButtonMobile" class="btn d-lg-none" to="/register">Regístrate</router-link>
                     <router-link id="loginButtonMobile" class="btn  d-lg-none" to="/login">Inicia Sesión</router-link>
                     
-                    <img id="userIconMobile" class="d-lg-none" src="img/users/placeholder/foto.png" alt="Icono">
+                    <img id="userIconMobile" class="d-lg-none" src="/img/users/placeholder/placeholder.png" alt="Icono">
                     <router-link id="loginButtonMobile" class="btn  d-lg-none" to="/logout">Cerrar sesión</router-link>
-                    <router-link to="/shoppingCart"><img class="d-lg-none" src="carro.svg" alt="carro"></router-link>
+                    <router-link to="/shoppingCart"><img class="d-lg-none" src="/img/batoiLogicResources/carro.svg" alt="carro"></router-link>
                 </li>
             </ul>
             
               <router-link id="registerButton" class="btn d-none d-lg-block" to="/register">Regístrate</router-link>
               <router-link id="loginButton" class="btn d-none d-lg-block" to="/login">Inicia Sesión</router-link>
 
-              <router-link id="userIcon" to="/"><img class="d-none d-lg-block" src="/img/users/placeholder/foto.png" alt="Icono"></router-link>
+              <router-link id="userIcon" to="/"><img class="d-none d-lg-block" src="/img/users/placeholder/placeholder.png" alt="Icono"></router-link>
               <router-link id="loginButton" class="btn d-none d-lg-block" to="/logout">Cerrar sesión</router-link>
-              <router-link id="header-logo-carrito" to="/shoppingCart"><img class="d-none d-lg-block" src="carro.svg" alt="carro"></router-link>
+              <router-link id="header-logo-carrito" to="/shoppingCart"><img class="d-none d-lg-block" src="/img/batoiLogicResources/carro.svg" alt="carro"></router-link>
         </div>
     </nav>
 </header>
@@ -35,7 +35,7 @@
 
         <div class="d-none d-md-block col-12 col-lg-4">
 
-            <img style="width: 258px" src="text-logo.svg" alt="logo">
+            <img style="width: 258px" src="/img/batoiLogicResources/text-logo.svg" alt="logo">
 
             <p>
                 Batoilogic es una empresa comprometida con sus clientes ofreciendo gran variedad

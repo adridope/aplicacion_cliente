@@ -15,6 +15,8 @@ var _Login = _interopRequireDefault(require("../views/Login.vue"));
 
 var _Logout = _interopRequireDefault(require("../components/Logout.vue"));
 
+var _SinglePageProduct = _interopRequireDefault(require("../components/SinglePageProduct.vue"));
+
 var _Register = _interopRequireDefault(require("../views/Register.vue"));
 
 var _ShoppingCart = _interopRequireDefault(require("../views/ShoppingCart.vue"));
@@ -33,6 +35,10 @@ var routes = [{
   path: '/products',
   name: 'Products',
   component: _ListadoProductos["default"]
+}, {
+  path: '/singlePageProduct',
+  name: 'SinglePageProduct',
+  component: _SinglePageProduct["default"]
 }, {
   path: '/login',
   name: 'Login',

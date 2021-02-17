@@ -3,6 +3,7 @@ import VueRouter from 'vue-router'
 import ListadoProductos from '../views/ListadoProductos.vue'
 import Login from '../views/Login.vue'
 import Logout from '../components/Logout.vue'
+import SinglePageProduct from '../components/SinglePageProduct.vue'
 import Register from '../views/Register.vue'
 import ShoppingCart from '../views/ShoppingCart.vue'
 import Inicio from '../views/Inicio.vue'
@@ -18,6 +19,11 @@ const routes = [
     path: '/products',
     name: 'Products',
     component: ListadoProductos
+  },
+  {
+    path: '/singlePageProduct',
+    name: 'SinglePageProduct',
+    component: SinglePageProduct
   },
   {
     path: '/login',
