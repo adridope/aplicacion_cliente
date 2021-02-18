@@ -32,12 +32,8 @@ export default {
     props: ["product"],
     methods: {
         img(){
-            let imgProduct = document.getElementById('imgProduct');
             let imgBack = document.getElementsByClassName('modal-container')[0];
-
-            imgProduct.addEventListener('click', () => {
-                document.getElementsByClassName('modal-container')[0].classList.add('active');
-            });
+            document.getElementsByClassName('modal-container')[0].classList.add('active');
 
             imgBack.addEventListener('click', () => {
                 document.getElementsByClassName('modal-container')[0].classList.remove('active');
