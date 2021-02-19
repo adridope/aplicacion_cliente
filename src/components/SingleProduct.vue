@@ -30,7 +30,7 @@ export default {
     props: ["product"],
     methods: {
         verMas(){
-            this.$router.push({ name: 'SinglePageProduct', params: { product: this.product }})
+            this.$router.push({ name: 'SinglePageProduct', params: { product: this.product.id }})
         }
     }
 }

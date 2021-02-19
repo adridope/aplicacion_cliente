@@ -36,7 +36,7 @@ var routes = [{
   name: 'Products',
   component: _ListadoProductos["default"]
 }, {
-  path: '/singlePageProduct',
+  path: '/products/:id',
   name: 'SinglePageProduct',
   component: _SinglePageProduct["default"]
 }, {

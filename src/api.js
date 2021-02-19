@@ -5,8 +5,8 @@ export default {
   getProducts() {
     return axios.get(baseURL)
   },
-  getProduct(product) {
-    return axios.get(baseURL+product)
+  getProduct(id) {
+    return axios.get(baseURL+id)
   }/*,
   getState(id) {
     return axios.get(baseURL+'states/'+ id)

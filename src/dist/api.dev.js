@@ -14,8 +14,8 @@ var _default = {
   getProducts: function getProducts() {
     return _axios["default"].get(baseURL);
   },
-  getProduct: function getProduct(product) {
-    return _axios["default"].get(baseURL + product);
+  getProduct: function getProduct(id) {
+    return _axios["default"].get(baseURL + id);
   }
   /*,
   getState(id) {

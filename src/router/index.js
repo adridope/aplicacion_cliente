@@ -21,7 +21,7 @@ const routes = [
     component: ListadoProductos
   },
   {
-    path: '/singlePageProduct',
+    path: '/products/:id',
     name: 'SinglePageProduct',
     component: SinglePageProduct
   },
