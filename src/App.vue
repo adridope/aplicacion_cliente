@@ -14,7 +14,7 @@
                     
                     <img id="userIconMobile" class="d-lg-none" src="/img/users/placeholder/placeholder.png" alt="Icono">
                     <router-link id="loginButtonMobile" class="btn  d-lg-none" to="/logout">Cerrar sesión</router-link>
-                    <router-link to="/shoppingCart"><img class="d-lg-none" src="/img/batoiLogicResources/carro.svg" alt="carro"></router-link>
+                    <router-link to="/shoppingCart"><img width="60px" id="header-logo-carritoMobile" class="d-lg-none header-logo-carrito" src="/img/batoiLogicResources/carro.svg" alt="carro"></router-link>
                 </li>
             </ul>
             
@@ -23,7 +23,7 @@
 
               <router-link id="userIcon" to="/"><img class="d-none d-lg-block" src="/img/users/placeholder/placeholder.png" alt="Icono"></router-link>
               <router-link id="loginButton" class="btn d-none d-lg-block" to="/logout">Cerrar sesión</router-link>
-              <router-link id="header-logo-carrito" to="/shoppingCart"><img class="d-none d-lg-block" src="/img/batoiLogicResources/carro.svg" alt="carro"></router-link>
+              <router-link id="header-logo-carrito" to="/shoppingCart"><img class="d-none d-lg-block header-logo-carrito" src="/img/batoiLogicResources/carro.svg" alt="carro"></router-link>
         </div>
     </nav>
 </header>
